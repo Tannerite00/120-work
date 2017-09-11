@@ -2,3 +2,4 @@ name: Tanner Dodd
 Date: 9/8/2017
 This is my first text document for one of Dr. Musick's Media Arts courses.
 I added a new line to this file in my text editor!!!
+I have made a change, just as master commanded
