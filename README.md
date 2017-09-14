@@ -25,5 +25,3 @@ git init
 git add *
 git commit -m 'initial commit for the repository and test1.txt'
 ```
-
-![image](C:/Users/Tanner/desktop/coding/Atom-screencap1.jpg)
