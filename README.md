@@ -18,12 +18,12 @@ Tanner Dodd 50
 
 ## Wanna see another cool trick?!?
 ### Inlined Code.
-'''
+...
 PS C:\Users\Tanner> set-location /users/Tanner/desktop/coding
 PS C:\Users\Tanner\desktop\coding> mkdir 120-work
 git init
 git add *
 git commit -m 'initial commit for the repository and test1.txt'
-'''
+...
 
 !(../coding/Atom-screencap1.jpg)
