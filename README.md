@@ -26,4 +26,4 @@ git add *
 git commit -m 'initial commit for the repository and test1.txt'
 ```
 
-!(../coding/Atom-screencap1.jpg)
+!(PS C:/Users/Tanner/desktop/coding/Atom-screencap1.jpg)
