@@ -25,4 +25,4 @@ git init
 git add *
 git commit -m 'initial commit for the repository and test1.txt'
 ```
-!(https://github.com/Tannerite00/120-work/blob/master/Atom-screencap1.JPG)
+![look at my screen](https://github.com/Tannerite00/120-work/blob/master/Atom-screencap1.JPG)
