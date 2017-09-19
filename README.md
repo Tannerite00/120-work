@@ -13,8 +13,8 @@ Tanner Dodd 50
 ## BUT WAIT THERE'S MORE
 [SKIPPITYBEEPOPCHOOBOPCHOY!](https://www.youtube.com/watch?v=oHg5SJYRHA0)
 
-## Thingss I would like to discuss more
-- more things about Git Bash please
+## Things I would like to discuss more
+- More things about Git Bash please
 
 ## Wanna see another cool trick?!?
 ### Inlined Code.
