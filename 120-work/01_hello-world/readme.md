@@ -9,7 +9,7 @@ Tanner Dodd 50
 # Steps
 -This week took me quite a long time to do, more to the fact that I got distractd by the cool new things we've learned
 -I drew circles for hours
-- and constantly refreshed my window, only to realize I didnt save in Atom and thats why nothing was changing. 
+-And constantly refreshed my window, only to realize I didnt save in Atom and thats why nothing was changing. 
 
 # Issues
 The only difficulty I had was to do with my own incompetance of not understanding directions. 
