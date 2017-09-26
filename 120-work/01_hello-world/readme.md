@@ -1,3 +1,2 @@
-Empty p5 sketch.
-
-Please replace contents of this file with appropriate readme information after finishing your p5 sketch.
+Tanner Dodd 50
+["Hello World! sketch] (https://tannerdodd.github.io/120-work/120-work/01_hello-world
