@@ -1,3 +1,2 @@
-Empty p5 sketch.
-
-Please replace contents of this file with appropriate readme information after finishing your p5 sketch.
+Tanner Dodd, Sectio 50
+[monster sketch](https://github.com/Tannerite00/120-work/blob/master/hw-4%20screencap.JPG)
