@@ -1,3 +1,9 @@
-Empty p5 sketch.
+Tanner Dodd, 50
 
-Please replace contents of this file with appropriate readme information after finishing your p5 sketch.
+# What I learned this week
+- more than I have all year
+- I learned how to replace the mouse with an object
+- how to draw lines
+- how to make timed events happen
+- how to constrain objects to stay on the page
+- my drawing skills have gotten better too!
