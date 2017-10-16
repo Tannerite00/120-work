@@ -1,3 +1,4 @@
+//Set my variables for my vertical lines
 var y = 100;
 var x = 200;
 var z = 300;
@@ -5,6 +6,7 @@ var t = 400;
 var v = 500;
 var q = 600;
 
+//Set my variables for my horizontal lines 
 var a = 100;
 var b = 200;
 var c = 300;
@@ -12,17 +14,20 @@ var d = 400;
 var e = 500;
 var f = 600;
 
+//color variable
 var col = 0;
 
+//speed variable
 var speed = 11%7
 
+//vraibles for my floating eyeball
 var eye = {}
 var eyeSize = 100
 var eyePosX = 0
 var eyePosY = 0
 var eyeColor = 'white'
 
-
+//My canvas, framerate, and where my eye will appear when the image is first pulled up
 function setup() {
   createCanvas(windowWidth, windowHeight);
   frameRate(30);
@@ -31,11 +36,13 @@ function setup() {
 
 }
 
+//My draw function,with the mapping function changing the background from black to white based on mouse movement
 function draw() {
   col = map(mouseX, 0, windowWidth, 0, 255)
 
   background(col);
 
+  //Let's start making some vertical lines that move
   stroke(255)
   y = y - 1;
   if (y < 0) {
@@ -74,7 +81,7 @@ if (q < 0) {
 }
 line(0, q, width, q)
 
-
+//Now lets make the horizontal lines move too
 stroke(255)
 a = a - 1;
 if (a < 0) {
@@ -116,7 +123,7 @@ if (f < 0) {
 }
 line(f, 0, f, height)
 
-
+//Adding the eyeball
 translate(eyePosX, eyePosY)
 fill(eyeColor)
 ellipse(0, 0, eyeSize)
