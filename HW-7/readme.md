@@ -1,6 +1,6 @@
 Tanner Dodd, 50
 
-[Live Sketch Link](Your Live Link)
+[Live Sketch Link](https://tannerite00.github.io/120-work/HW-7/)
 
 
 # HW 7 | Describe then Alter the Bouncing Ball
