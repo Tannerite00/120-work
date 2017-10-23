@@ -34,3 +34,7 @@ I then implemented an if statement that set the ball color to randomize if
 the fill counter were to equal 0, which it alwaus will.
 lastly, I put in a noStroke() and set the fill to ball_color right above the
 ellipse.
+
+
+After letting it draw for a while, it will run a pattern and trace it backwords and forewards forever, or until your computer crashes. this is what it looks like
+![art](https://github.com/Tannerite00/120-work/blob/master/hw-7%20screenshot.JPG)
